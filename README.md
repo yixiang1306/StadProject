@@ -1,4 +1,4 @@
-# projectstad
+# Flutter Project
 This flutter application is a step-tracking application which allows user to log in , track daily steps and manage profile settings.
 <br/>
 __Features__
