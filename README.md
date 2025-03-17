@@ -1,6 +1,8 @@
 # projectstad
-
-A new Flutter project.
+This flutter application is a step-tracking application which allows user to log in , track daily steps and manage profile settings.
+<br/>
+__Features__
+- Motion sensor for step counter
 
 ## Getting Started
 
